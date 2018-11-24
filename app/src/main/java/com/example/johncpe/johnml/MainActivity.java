@@ -63,7 +63,6 @@ public class MainActivity extends AppCompatActivity {
                 } catch (FileNotFoundException e) {
                     e.printStackTrace();
                 }
-                textRecognizeResult(photo);
             }
         }else {
             Toast.makeText(MainActivity.this,"Cancel",Toast.LENGTH_SHORT).show();
