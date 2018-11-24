@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "591247587871",
+    "firebase_url": "https://ml-android-30992.firebaseio.com",
+    "project_id": "ml-android-30992",
+    "storage_bucket": "ml-android-30992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591247587871:android:b304ac7c884dfdd5",
+        "android_client_info": {
+          "package_name": "com.example.johncpe.johnml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591247587871-m7gvram9g282i7r7gb6i9lm7ss0rk118.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOmrY3bH5RR1h6E_5G833PmWy32csUwxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
